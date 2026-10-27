@@ -27,7 +27,7 @@ I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives betwe
 ## Let's Connect
 
 - Portfolio Website: coming soon
-- LinkedIn: [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/mattias-garc%C3%A9s-871231289/)
+- LinkedIn: [linkedin.com/in/mattias-garces](https://www.linkedin.com/in/mattias-garc%C3%A9s-871231289/)
 - Email: [mattygarces.vargas@gmail.com](mailto:mattygarces.vargas@gmail.com)
 
 ---
