@@ -4,7 +4,7 @@ Computer Science Student | Software Developer | Creative Developer & Brand Desig
 
 ---
 
-## About Me
+### About Me
 
 I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives between two worlds: design and code. I help brands understand who they are, build their visual identity, and turn it into web experiences that people *feel*, not just visit.
 
@@ -16,7 +16,7 @@ I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives betwe
 
 ---
 
-## Featured Projects
+### Featured Projects
 
 - **OMAKASE**: a concept web experience inspired by Álvaro Díaz's album (Astro · GSAP)
 - **Proalimec**: brand identity and website for a meat distributor going digital (React · GSAP)
@@ -24,19 +24,29 @@ I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives betwe
 
 ---
 
+### Technology Stack
 
-## Technology Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img alt="Tech stack: JavaScript, TypeScript, Python, Java, C++, React, Next.js, Astro, Tailwind, Node.js, PostgreSQL, Docker, Figma, GSAP" src="./assets/stack-dark.svg" width="100%">
-</picture>
+<p align="left">
+  <img src="./assets/stack/javascript.svg" alt="JavaScript" title="JavaScript" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/typescript.svg" alt="TypeScript" title="TypeScript" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/python.svg" alt="Python" title="Python" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/openjdk.svg" alt="Java" title="Java" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/cplusplus.svg" alt="C++" title="C++" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/react.svg" alt="React" title="React" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/nextdotjs.svg" alt="Next.js" title="Next.js" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/astro.svg" alt="Astro" title="Astro" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/gsap.svg" alt="GSAP" title="GSAP" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/nodedotjs.svg" alt="Node.js" title="Node.js" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/docker.svg" alt="Docker" title="Docker" width="22" height="22" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/stack/figma.svg" alt="Figma" title="Figma" width="22" height="22" />
+</p>
 
 
 ---
 
-## Let's Connect
+### Let's Connect
 
 - Portfolio Website: coming soon
 - LinkedIn: [linkedin.com/in/mattias-garces](https://www.linkedin.com/in/mattias-garc%C3%A9s-871231289/)
