@@ -24,6 +24,18 @@ I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives betwe
 
 ---
 
+
+## Technology Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="Tech stack: JavaScript, TypeScript, Python, Java, C++, React, Next.js, Astro, Tailwind, Node.js, PostgreSQL, Docker, Figma, GSAP" src="./assets/stack-dark.svg" width="100%">
+</picture>
+
+
+---
+
 ## Let's Connect
 
 - Portfolio Website: coming soon
@@ -32,31 +44,5 @@ I'm a 21-year-old Computer Science student from Ambato, Ecuador, who lives betwe
 
 ---
 
-## Technology Stack
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css&perline=4&theme=dark" />
-      <h3>Front-end</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,vite,sass&perline=4&theme=dark" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Back-end &amp; Databases</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,firebase&perline=4&theme=dark" />
-      <h3>DevOps &amp; Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,netlify,vercel&perline=4&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>Design &amp; Motion</h3>
-      <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0E0E0C" />
-    </td>
-  </tr>
-</table>
 
 > "Design & code from the middle of the world."
